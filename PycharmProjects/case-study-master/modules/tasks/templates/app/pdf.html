@@ -1,0 +1,27 @@
+{% load static %}
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <style>
+     @font-face {
+	font-family: "Arial";
+	src: url("{% static 'fonts/arial.ttf' %}");
+	}
+    body {
+        font-family: Arial;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>My Tasks</h1>
+        <h2>Task {{data.id}}: {{data.task}}</h2>
+        <h2>Task Tags: {{data.tags}}</h2>
+        <h2>Created At: {{data.created_at}}</h2>
+        <h2>Task Status: {{data.status}}</h2>
+    </div>
+</body>
+</html>
