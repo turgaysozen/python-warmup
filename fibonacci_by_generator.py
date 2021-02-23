@@ -4,12 +4,11 @@ class Fibonacci:
         a, b = 0, 1
         counter = 1
         while counter < 15:
-            print(a)
-            yield
+            yield print(a)
             a, b = b, a + b
             counter += 1
 
 
 fi = Fibonacci().fibonacci()
-for _ in range(0, 10):
+for _ in range(0, 25):
     fi.__next__()

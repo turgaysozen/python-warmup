@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4710d767-2d1e-4a4f-9815-07f91e0f2e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci_by_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci_by_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci_by_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,62 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../datadot" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Turgay\PycharmProjects\Python_Warmup" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.recursive">
+    <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python - Warmup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python - Warmup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.recursive" />
+        <item itemvalue="Python.decorators" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Turgay\AppData\Roaming\Subversion</configuration>
@@ -51,13 +107,66 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="235" key="FileChooserDialogImpl" timestamp="1604917657580">
+    <state width="569" height="466" key="DebuggerActiveHint" timestamp="1613861773456">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state x="634" y="235" key="FileChooserDialogImpl/0.0.1707.960@0.0.1707.960" timestamp="1604917657580" />
-    <state x="171" y="119" key="SettingsEditor" timestamp="1604343165111">
+    <state width="569" height="466" key="DebuggerActiveHint/0.0.1707.960@0.0.1707.960" timestamp="1613861773456" />
+    <state width="1663" height="172" key="GridCell.Tab.0.bottom" timestamp="1613904688565">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state x="171" y="119" key="SettingsEditor/0.0.1707.960@0.0.1707.960" timestamp="1604343165111" />
+    <state width="1663" height="172" key="GridCell.Tab.0.bottom/0.0.1707.960@0.0.1707.960" timestamp="1613904688565" />
+    <state width="1663" height="172" key="GridCell.Tab.0.center" timestamp="1613904688565">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.0.center/0.0.1707.960@0.0.1707.960" timestamp="1613904688565" />
+    <state width="1663" height="172" key="GridCell.Tab.0.left" timestamp="1613904688565">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.0.left/0.0.1707.960@0.0.1707.960" timestamp="1613904688565" />
+    <state width="1663" height="172" key="GridCell.Tab.0.right" timestamp="1613904688565">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.0.right/0.0.1707.960@0.0.1707.960" timestamp="1613904688565" />
+    <state width="1663" height="172" key="GridCell.Tab.1.bottom" timestamp="1613904689536">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.1.bottom/0.0.1707.960@0.0.1707.960" timestamp="1613904689536" />
+    <state width="1663" height="172" key="GridCell.Tab.1.center" timestamp="1613904689536">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.1.center/0.0.1707.960@0.0.1707.960" timestamp="1613904689536" />
+    <state width="1663" height="172" key="GridCell.Tab.1.left" timestamp="1613904689536">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.1.left/0.0.1707.960@0.0.1707.960" timestamp="1613904689536" />
+    <state width="1663" height="172" key="GridCell.Tab.1.right" timestamp="1613904689536">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1663" height="172" key="GridCell.Tab.1.right/0.0.1707.960@0.0.1707.960" timestamp="1613904689536" />
+    <state x="355" y="112" key="SettingsEditor" timestamp="1613827005311">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="355" y="112" key="SettingsEditor/0.0.1707.960@0.0.1707.960" timestamp="1613827005311" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/decorators.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/decorators.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/recursive.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
